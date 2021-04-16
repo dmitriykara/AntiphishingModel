@@ -1,0 +1,14 @@
+dnspython
+ipwhois
+python-whois
+PySocks
+futures
+tld
+html2text
+pandas
+numpy
+xgboost
+requests
+tqdm
+pymongo
+pyOpenSSL
